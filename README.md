@@ -57,12 +57,6 @@
 </a>
 </p>
 <hr />
-<br>
-<img src="https://komarev.com/ghpvc/?username=conghau113&color=red">
-<div align="center">
-  <img  src="img/grid-snake.svg"
-    alt="conghau113" />
-</div>
 
 
 
