@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nguyen Cong Hau</h1>
+<h1 align="center">Hi, I'm Công Hậu</h1>
 
 
 <!-- <img align="right" alt="Coder GIF" height=200 width=300 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" /> -->
@@ -64,11 +64,6 @@
     alt="conghau113" />
 </div>
 
-<div align="center">
-
-### Copyright © [nguyenconghau](https://github.com/conghau113)
-
-<div>
 
 
 
