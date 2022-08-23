@@ -52,8 +52,8 @@
 
 <p>
 <a href="https://github.com/conghau113">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=conghau113&theme=blue-green"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conghau113&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=conghau113&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=conghau113&layout=compact&langs_count=15&theme=radical"/>
 </a>
 </p>
 <hr />
