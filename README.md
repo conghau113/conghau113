@@ -6,8 +6,8 @@
 
 ### About me:
 
-- 🌱 I'm a student studying software engineering at Ton Duc Thang University.
-- 🌱 Currently, i'm learning about Front-end web with framework ReactJS and in the future, I wanna be a full-stack web developer.
+- 🌱 I am a software engineering student at Ton Duc Thang University.
+- 🌱 Currently, I am learning Front-end web with ReactJS framework and in the future, I want to be a web developer both front-end and back-end.
 <br>
 
 <div style="margin: 200px;">
