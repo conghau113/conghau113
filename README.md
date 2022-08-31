@@ -8,8 +8,7 @@
 
 - 🌱 I am a software engineering student at Ton Duc Thang University.
 - 🌱 Currently, I am learning Front-end web with ReactJS framework and in the future, I want to be a web developer both in front-end and back-end.
-<br>
-<a>My portfolio websit: https://conghau113.github.io/react-portfolio/</a>
+- <a href="https://conghau113.github.io/react-portfolio/">My portfolio website: https://conghau113.github.io/react-portfolio/</a>
 <br>
 
 <div style="margin: 200px;">
